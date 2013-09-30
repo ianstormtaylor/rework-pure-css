@@ -2,7 +2,7 @@
   "name": "rework-pure-css",
   "version": "0.0.1",
   "license": "MIT",
-  "description": "A collection of pure-css Rework plugins, so you can write bleeding-edge, spec-compliant CSS and it will get transformed for older browsers.",
+  "description": "A collection of pure-CSS Rework plugins, so you can write bleeding-edge, spec-compliant CSS and it will get transformed for browsers that haven't caught up yet.",
   "keywords": [
     "rework",
     "css",
