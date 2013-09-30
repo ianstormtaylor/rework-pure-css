@@ -1,5 +1,5 @@
 
-var prefixes = require('autoprefixer').rework();
+var prefixes = require('autoprefixer').rework;
 var pseudos = require('rework-pseudos')();
 var vars = require('rework-vars')();
 var variant = require('rework-font-variant');
