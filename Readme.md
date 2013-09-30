@@ -24,7 +24,7 @@ rework(css)
 
   - [variables](https://github.com/visionmedia/rework-vars)
   - [prefixes](https://github.com/ai/autoprefixer)
-  - [pseudo elements](https://github.com/yields/rework-pseudo)
+  - [pseudo elements](https://github.com/yields/rework-pseudos)
   - [font-variant](https://github.com/ianstormtaylor/rework-font-variant)
 
 ## License
