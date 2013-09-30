@@ -6,6 +6,10 @@
 
   _Note: some things aren't spec'd yet but are extremely obvious candidates, like certain pseudo-elements. It doesn't include controversial features like `extend`._
 
+## Installation
+
+    $ npm install rework-pure-css
+
 ## Example
 
 ```js
@@ -20,7 +24,7 @@ rework(css)
 
   - [variables](https://github.com/visionmedia/rework-vars)
   - [prefixes](https://github.com/ai/autoprefixer)
-  - [pseudo elements](https://github.com/yields/rework-pseudo)
+  - [pseudo elements](https://github.com/yields/rework-pseudos)
   - [font-variant](https://github.com/ianstormtaylor/rework-font-variant)
 
 ## License
