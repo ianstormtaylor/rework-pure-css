@@ -1,6 +1,6 @@
 # rework-pure-css
 
-  A collection of pure-CSS Rework plugins, so you can write bleeding-edge, spec-compliant CSS and it will get transformed for older browsers.
+  A collection of pure-CSS Rework plugins, so you can write bleeding-edge, spec-compliant CSS and it will get transformed for browsers that haven't caught up yet.
 
   This is nice because it lets you write pure CSS, and as browser support improves you don't have to change a thing.
 
