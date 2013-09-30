@@ -1,6 +1,9 @@
-0.0.2 - September 30, 2013
+0.0.3 - September 30, 2013
 --------------------------
 * fix `autoprefixer` loading bug
+
+0.0.2 - September 30, 2013
+--------------------------
 * update `rework-font-variant` dep
 * update `rework-pseudos` dep
 
