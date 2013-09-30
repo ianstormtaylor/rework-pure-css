@@ -6,6 +6,10 @@
 
   _Note: some things aren't spec'd yet but are extremely obvious candidates, like certain pseudo-elements. It doesn't include controversial features like `extend`._
 
+## Installation
+
+    $ npm install rework-pure-css
+
 ## Example
 
 ```js
