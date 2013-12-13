@@ -1,6 +1,6 @@
 {
   "name": "rework-pure-css",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "description": "A collection of pure-CSS Rework plugins, so you can write bleeding-edge, spec-compliant CSS and it will get transformed for browsers that haven't caught up yet.",
   "keywords": [
@@ -10,9 +10,8 @@
     "pure"
   ],
   "dependencies": {
-    "rework-pseudos": "~0.1.0",
-    "autoprefixer": "~0.8.20130923",
-    "rework-vars": "~1.0.1",
+    "autoprefixer": "~0.8.20131209",
+    "rework-vars": "~1.1.0",
     "rework-font-variant": "0.0.2"
   },
   "devDependencies": {

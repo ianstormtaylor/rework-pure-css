@@ -1,3 +1,8 @@
+0.0.4 - December 12, 2013
+-------------------------
+* upgrade `autoprefixer`
+* upgrade `rework-vars`
+
 0.0.3 - September 30, 2013
 --------------------------
 * fix `autoprefixer` loading bug
