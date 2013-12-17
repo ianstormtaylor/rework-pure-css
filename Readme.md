@@ -1,3 +1,7 @@
+**Note:** This was the way we used to approach writing CSS at Segment.io and it inspired us to make [Myth](https://github.com/segmentio/myth), which is where future development for this idea will be happening.
+
+---
+
 # rework-pure-css
 
   A collection of pure-CSS Rework plugins, so you can write bleeding-edge, spec-compliant CSS and it will get transformed for browsers that haven't caught up yet.
